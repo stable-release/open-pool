@@ -1,3 +1,7 @@
 [submodule "forge-std"]
 	path = forge-std
 	url = https://github.com/foundry-rs/forge-std
+
+[submodule "open-pool-contracts"]
+	path = open-pool-contracts
+	url = https://github.com/stable-release/open-pool-contracts
